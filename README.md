@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Adnan Abdullah, a second year Ph.D. student in the department of ECE, University of Florida. I completed my Bachelor of Science (BSc) from Bangladesh University of Engineering and Technology with a major in Electrical and Electronic Engineering. My research interest is primarily in the field of embedded deep learning for marine robotics and on-device vision. Currently, I am working as a Graduate Research Assistant at RoboPI Lab where I am leading several projects focusing on visual perception and audio-visual signal understanding for secure communication of mobile robots in adverse sensing conditions. I am also working on state estimation and localization of mobile robots in long-term exploratory missions.
+
 <!--
 **aduvai22/aduvai22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
